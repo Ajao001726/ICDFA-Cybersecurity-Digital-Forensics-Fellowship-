@@ -476,8 +476,6 @@ Overall, Lab 1 gave me a practical foundation for the firewall rule configuratio
 
 The screenshots for this lab are stored in the `SCREENSHOTS` folder.
 
-Recommended file names:
-
 ```text
 LAB-1-OPNSENSE-NETWORK/
 │
