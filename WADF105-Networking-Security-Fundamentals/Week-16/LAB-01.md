@@ -472,21 +472,7 @@ Overall, Lab 1 gave me a practical foundation for the firewall rule configuratio
 
 ---
 
-# 16. Evidence List
-
-| Evidence | Description                                              |
-| -------- | -------------------------------------------------------- |
-| **E1**   | OPNsense VirtualBox network settings – NAT and ICDFA-LAN |
-| **E2**   | Ubuntu VirtualBox network settings – ICDFA-LAN           |
-| **E3**   | OPNsense WAN and LAN status                              |
-| **E4**   | Ubuntu IP address and routing table                      |
-| **E5**   | Successful gateway, internet and DNS tests               |
-| **E6**   | Wireshark ARP, ICMP and DNS captures                     |
-| **E7**   | Explanation of the Ubuntu default gateway                |
-
----
-
-# 17. Evidence Files
+# 16. Evidence Files
 
 The screenshots for this lab are stored in the `SCREENSHOTS` folder.
 
