@@ -493,14 +493,26 @@ The screenshots for this lab are stored in the `SCREENSHOTS` folder.
 Recommended file names:
 
 ```text
-SCREENSHOTS/
-├── E1-opnsense-virtualbox-network.png
-├── E2-ubuntu-virtualbox-network.png
-├── E3-opnsense-wan-lan-status.png
-├── E4-ubuntu-ip-and-routing.png
-├── E5-connectivity-tests.png
-├── E6-wireshark-arp-icmp-dns.png
-└── E7-default-gateway.png
+LAB-1-OPNSENSE-NETWORK/
+│
+├── README.md
+│
+└── SCREENSHOTS/
+    ├── 01-virtualbox-opnsense-network-settings.png
+    ├── 02-virtualbox-ubuntu-network-settings.png
+    ├── 03-opnsense-wan-lan-interface-status.png
+    ├── 04-opnsense-lan-dhcp-settings.png
+    ├── 05-ubuntu-ip-address-and-interface.png
+    ├── 06-ubuntu-routing-table.png
+    ├── 07-ping-opnsense-gateway.png
+    ├── 08-ping-internet-1111.png
+    ├── 09-dns-resolution-test.png
+    ├── 10-https-connectivity-test.png
+    ├── 11-opnsense-web-gui.png
+    ├── 12-wireshark-arp-capture.png
+    ├── 13-wireshark-icmp-capture.png
+    ├── 14-wireshark-dns-capture.png
+    └── 15-lab1-final-connectivity-results.png
 ```
 
 ---
