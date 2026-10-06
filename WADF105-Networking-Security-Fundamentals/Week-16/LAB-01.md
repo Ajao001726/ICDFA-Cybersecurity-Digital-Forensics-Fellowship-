@@ -1,5 +1,9 @@
 # LAB 1 – OPNsense and Ubuntu Network Connectivity
 
+**Author:** Mariam Blessing Ajao  
+**Lab:** Lab 1 – OPNsense and Ubuntu Network Connectivity  
+**Status:** Completed
+
 ## 1. Introduction
 
 This lab was carried out to set up and test a simple network using **OPNsense as a firewall/router** and **Ubuntu as the client machine**.
